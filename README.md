@@ -6,7 +6,7 @@
 
 ---
 Como rodar:
-* rvm use 3.2.0
-* bundle install
-* sudo service postgresql start
-* rails s
+* ```rvm use 3.2.0```
+* ```bundle install```
+* ```sudo service postgresql start```
+* ```rails s```
